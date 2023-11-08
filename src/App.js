@@ -89,7 +89,7 @@ function App() {
                   </div>
                 </div>
                 <p>Thank you! 😊</p>
-                <p>For more Free Mock Tests <FontAwesomeIcon icon={faHandPointRight} /> <a href="w">Try Now</a></p>
+                <p>For more Free Mock Tests <FontAwesomeIcon icon={faHandPointRight} /> <a href="https://github.com/Nandu-ramineni">Try Now</a></p>
               </div>
             ) : (
               <div>
